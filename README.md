@@ -1,2 +1,2 @@
 # Tp_CV_PHP
-La base de donné a utilisé est db
+La base de donné a utilisé est db.sql
